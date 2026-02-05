@@ -34,14 +34,15 @@ python Main.py
 
 ## Crédits
 
-- **Développement du jeu** : Léane TERRY, Guillaume JONVEL, Ian LEGRAND
-- **Ressources artistiques** : Léane TERRY
+- **Développement du jeu** : Auguste TERRY, Guillaume JONVEL, Ian LEGRAND
+- **Ressources artistiques** : Auguste TERRY
 - **Son/Musique** : Mathis TERRY
 
 ## Licence
 
 X-quisse est *open source* et disponible sous la [GPL v3](licence.txt).
 Ce projet est sous licence libre. Vous êtes libre de le modifier et de le partager tout en mentionnant les auteurs d'origine.
+
 
 
 
